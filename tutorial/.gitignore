@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+# I'm creating a pointless commit for the sake of verifying my commits with GPG again
+# If you see this, I hope you're having a lovely day 🌻
 # dependencies
 /node_modules
 /.pnp
